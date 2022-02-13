@@ -1,0 +1,44 @@
+body{
+    font-family: 'Supermercado One', cursive;
+font-family: 'Yellowtail', cursive;
+margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: blue;
+}
+section{
+    display: flex;
+    padding: 20%;
+}
+.width{
+    width: 50%;
+}
+.width img{
+width: 80%;
+}
+.ok{
+    width: 20%;
+    margin: 20%;
+    margin-bottom: 100px;
+}
+.yes{
+    width: 50%;
+    margin: 100%;
+    margin-bottom: 100px;
+}
+.link{
+    background-color: chartreuse;
+    size: 70px;
+    padding: 10px;
+    grid-area: auto;
+    font-size: large;
+    font-style:italic;
+    background-image: -moz-linear-gradient();
+    font-weight: 700ba;
+}
+    .top-banner{
+        background-color: blue;
+    }
